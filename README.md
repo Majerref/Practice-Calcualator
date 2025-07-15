@@ -1,2 +1,2 @@
-# Practice-Calcualator
+# Practice-Calculator
 Practice create calculator 
